@@ -14,6 +14,20 @@
 		CF1E36E91E84CF7100675DB0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF1E36E71E84CF7100675DB0 /* LaunchScreen.storyboard */; };
 		CF1E36F41E84CF7100675DB0 /* SwiftUI06__collectionview______Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1E36F31E84CF7100675DB0 /* SwiftUI06__collectionview______Tests.swift */; };
 		CF1E36FF1E84CF7100675DB0 /* SwiftUI06__collectionview______UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1E36FE1E84CF7100675DB0 /* SwiftUI06__collectionview______UITests.swift */; };
+		CF1E370D1E84E10500675DB0 /* WaterCollectionViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1E370C1E84E10500675DB0 /* WaterCollectionViewLayout.swift */; };
+		CF443FA31E94CAF3008B4382 /* aion1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CF443F971E94CAF3008B4382 /* aion1.jpg */; };
+		CF443FA41E94CAF3008B4382 /* aion10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CF443F981E94CAF3008B4382 /* aion10.jpg */; };
+		CF443FA51E94CAF3008B4382 /* aion11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CF443F991E94CAF3008B4382 /* aion11.jpg */; };
+		CF443FA61E94CAF3008B4382 /* aion12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CF443F9A1E94CAF3008B4382 /* aion12.jpg */; };
+		CF443FA71E94CAF3008B4382 /* aion2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CF443F9B1E94CAF3008B4382 /* aion2.jpg */; };
+		CF443FA81E94CAF3008B4382 /* aion3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CF443F9C1E94CAF3008B4382 /* aion3.jpg */; };
+		CF443FA91E94CAF3008B4382 /* aion4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CF443F9D1E94CAF3008B4382 /* aion4.jpg */; };
+		CF443FAA1E94CAF3008B4382 /* aion5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CF443F9E1E94CAF3008B4382 /* aion5.jpg */; };
+		CF443FAB1E94CAF3008B4382 /* aion6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CF443F9F1E94CAF3008B4382 /* aion6.jpg */; };
+		CF443FAC1E94CAF3008B4382 /* aion7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CF443FA01E94CAF3008B4382 /* aion7.jpg */; };
+		CF443FAD1E94CAF3008B4382 /* aion8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CF443FA11E94CAF3008B4382 /* aion8.jpg */; };
+		CF443FAE1E94CAF3008B4382 /* aion9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CF443FA21E94CAF3008B4382 /* aion9.jpg */; };
+		CF443FB01E94D704008B4382 /* WaterButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF443FAF1E94D704008B4382 /* WaterButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +61,20 @@
 		CF1E36FA1E84CF7100675DB0 /* SwiftUI06--collectionview实现的瀑布流UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftUI06--collectionview实现的瀑布流UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF1E36FE1E84CF7100675DB0 /* SwiftUI06__collectionview______UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftUI06__collectionview______UITests.swift"; sourceTree = "<group>"; };
 		CF1E37001E84CF7100675DB0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF1E370C1E84E10500675DB0 /* WaterCollectionViewLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WaterCollectionViewLayout.swift; sourceTree = "<group>"; };
+		CF443F971E94CAF3008B4382 /* aion1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aion1.jpg; sourceTree = "<group>"; };
+		CF443F981E94CAF3008B4382 /* aion10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aion10.jpg; sourceTree = "<group>"; };
+		CF443F991E94CAF3008B4382 /* aion11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aion11.jpg; sourceTree = "<group>"; };
+		CF443F9A1E94CAF3008B4382 /* aion12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aion12.jpg; sourceTree = "<group>"; };
+		CF443F9B1E94CAF3008B4382 /* aion2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aion2.jpg; sourceTree = "<group>"; };
+		CF443F9C1E94CAF3008B4382 /* aion3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aion3.jpg; sourceTree = "<group>"; };
+		CF443F9D1E94CAF3008B4382 /* aion4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aion4.jpg; sourceTree = "<group>"; };
+		CF443F9E1E94CAF3008B4382 /* aion5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aion5.jpg; sourceTree = "<group>"; };
+		CF443F9F1E94CAF3008B4382 /* aion6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aion6.jpg; sourceTree = "<group>"; };
+		CF443FA01E94CAF3008B4382 /* aion7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aion7.jpg; sourceTree = "<group>"; };
+		CF443FA11E94CAF3008B4382 /* aion8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aion8.jpg; sourceTree = "<group>"; };
+		CF443FA21E94CAF3008B4382 /* aion9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aion9.jpg; sourceTree = "<group>"; };
+		CF443FAF1E94D704008B4382 /* WaterButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WaterButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +105,7 @@
 		CF1E36D21E84CF7100675DB0 = {
 			isa = PBXGroup;
 			children = (
+				CF443F961E94CAF3008B4382 /* picture */,
 				CF1E36DD1E84CF7100675DB0 /* SwiftUI06--collectionview实现的瀑布流 */,
 				CF1E36F21E84CF7100675DB0 /* SwiftUI06--collectionview实现的瀑布流Tests */,
 				CF1E36FD1E84CF7100675DB0 /* SwiftUI06--collectionview实现的瀑布流UITests */,
@@ -99,6 +128,8 @@
 			children = (
 				CF1E36DE1E84CF7100675DB0 /* AppDelegate.swift */,
 				CF1E36E01E84CF7100675DB0 /* ViewController.swift */,
+				CF1E370C1E84E10500675DB0 /* WaterCollectionViewLayout.swift */,
+				CF443FAF1E94D704008B4382 /* WaterButton.swift */,
 				CF1E36E21E84CF7100675DB0 /* Main.storyboard */,
 				CF1E36E51E84CF7100675DB0 /* Assets.xcassets */,
 				CF1E36E71E84CF7100675DB0 /* LaunchScreen.storyboard */,
@@ -123,6 +154,25 @@
 				CF1E37001E84CF7100675DB0 /* Info.plist */,
 			);
 			path = "SwiftUI06--collectionview实现的瀑布流UITests";
+			sourceTree = "<group>";
+		};
+		CF443F961E94CAF3008B4382 /* picture */ = {
+			isa = PBXGroup;
+			children = (
+				CF443F971E94CAF3008B4382 /* aion1.jpg */,
+				CF443F981E94CAF3008B4382 /* aion10.jpg */,
+				CF443F991E94CAF3008B4382 /* aion11.jpg */,
+				CF443F9A1E94CAF3008B4382 /* aion12.jpg */,
+				CF443F9B1E94CAF3008B4382 /* aion2.jpg */,
+				CF443F9C1E94CAF3008B4382 /* aion3.jpg */,
+				CF443F9D1E94CAF3008B4382 /* aion4.jpg */,
+				CF443F9E1E94CAF3008B4382 /* aion5.jpg */,
+				CF443F9F1E94CAF3008B4382 /* aion6.jpg */,
+				CF443FA01E94CAF3008B4382 /* aion7.jpg */,
+				CF443FA11E94CAF3008B4382 /* aion8.jpg */,
+				CF443FA21E94CAF3008B4382 /* aion9.jpg */,
+			);
+			path = picture;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,8 +285,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF443FA61E94CAF3008B4382 /* aion12.jpg in Resources */,
+				CF443FA71E94CAF3008B4382 /* aion2.jpg in Resources */,
+				CF443FA81E94CAF3008B4382 /* aion3.jpg in Resources */,
+				CF443FAA1E94CAF3008B4382 /* aion5.jpg in Resources */,
+				CF443FA91E94CAF3008B4382 /* aion4.jpg in Resources */,
+				CF443FAB1E94CAF3008B4382 /* aion6.jpg in Resources */,
+				CF443FA51E94CAF3008B4382 /* aion11.jpg in Resources */,
+				CF443FA31E94CAF3008B4382 /* aion1.jpg in Resources */,
+				CF443FAE1E94CAF3008B4382 /* aion9.jpg in Resources */,
 				CF1E36E91E84CF7100675DB0 /* LaunchScreen.storyboard in Resources */,
 				CF1E36E61E84CF7100675DB0 /* Assets.xcassets in Resources */,
+				CF443FA41E94CAF3008B4382 /* aion10.jpg in Resources */,
+				CF443FAD1E94CAF3008B4382 /* aion8.jpg in Resources */,
+				CF443FAC1E94CAF3008B4382 /* aion7.jpg in Resources */,
 				CF1E36E41E84CF7100675DB0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -262,8 +324,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF1E370D1E84E10500675DB0 /* WaterCollectionViewLayout.swift in Sources */,
 				CF1E36E11E84CF7100675DB0 /* ViewController.swift in Sources */,
 				CF1E36DF1E84CF7100675DB0 /* AppDelegate.swift in Sources */,
+				CF443FB01E94D704008B4382 /* WaterButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -514,6 +578,7 @@
 				CF1E37051E84CF7100675DB0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CF1E37061E84CF7100675DB0 /* Build configuration list for PBXNativeTarget "SwiftUI06--collectionview实现的瀑布流Tests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +587,7 @@
 				CF1E37081E84CF7100675DB0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CF1E37091E84CF7100675DB0 /* Build configuration list for PBXNativeTarget "SwiftUI06--collectionview实现的瀑布流UITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +596,7 @@
 				CF1E370B1E84CF7100675DB0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
